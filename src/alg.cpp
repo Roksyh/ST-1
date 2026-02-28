@@ -1,3 +1,4 @@
+// Copyright 2025 UNN-IASR
 #include <cstdint>
 #include <vector>
 #include "alg.h"

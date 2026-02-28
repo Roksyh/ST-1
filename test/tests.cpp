@@ -1,3 +1,4 @@
+// Copyright 2025 UNN-IASR
 #include <gtest/gtest.h>
 #include <cstdint>
 #include "alg.h"
